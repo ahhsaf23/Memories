@@ -1,0 +1,6 @@
+In api adding
+
+express server
+mongoose for mongDB
+to hide the user name nd paswrd of mongoDB dot env
+to upload images multer
